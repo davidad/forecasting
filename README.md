@@ -1,11 +1,11 @@
-FORECASTING (project currently dormant)
-===
+## `forecasting` (project currently dormant)
+
 
 This represents a thoroughly incomplete project I worked on a bit towards the end of 2012 but that dropped off the bottom of my stack a while ago. I may rescue it at some point.
 
 Some of my notes are reproduced below. "wbe.lua" is also a good place to look, though I only got about 25% done writing it.
 
-===
+* * *
 
 thinking in terms of probabilistic inference...
 
