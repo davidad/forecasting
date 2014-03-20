@@ -3,7 +3,10 @@
 
 This represents a thoroughly incomplete project I worked on a bit towards the end of 2012 but that dropped off the bottom of my stack a while ago. I may rescue it at some point.
 
-Some of my notes are reproduced below. "wbe.lua" is also a good place to look, though I only got about 25% done writing it.
+> *Note from March 20, 2014:*
+> It looks like `binary_heap.lua` is a stub which needs to be finished and `zdd.lua` (intended to implement zero-suppressed decision diagrams) isn't written at all. The rest of the program looks to be in decent shape, but, of course, it's never actually been *run* since key components are missing, so I'm sure a lot of debugging would be necessary in addition to supplying those libraries. Oh, and by the way, this code is meant to be run with [LuaJIT](http://luajit.org/).
+
+Some of my notes are reproduced below. `wbe.lua` is also a good place to look, though I only got about 25% done writing it.
 
 * * *
 
