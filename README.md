@@ -18,3 +18,20 @@ I also want to be able to produce useful milestones, which are defined as milest
 a) we have a decent prediction of when they will happen
 b) knowing that they did happen on schedule, or why they didn't, would improve certainties for the rest of the process
 
+* * *
+
+Scientific uncertainties are time-invariant random variables. Technological
+uncertainties are time-dependent random variables, which may also depend upon
+scientific uncertainties. Outcomes are deterministic functions of scientific
+and technoloigcal uncertainties.
+
+Relations between technologies are expressed here as one of two types: "any"
+or "all."
+
+An "any" relationship represents a choice between several possible
+methodologies, where exactly one must be used to satisfy the dependency, and
+the best can be chosen at any given point.
+
+An "all" relationship represents a signal flow or requirement set, all of
+which must be met and the worst of which becomes a bottleneck or limiting
+factor.
