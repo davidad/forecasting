@@ -19,14 +19,14 @@ the aim of this subproject would be to produce a program that can run Monte Carl
 
 I also want to be able to automatically identify useful milestones, which are defined as milestones such that:
 * we have a decent prediction of when they will happen
-* knowing that they did happen on schedule, or why they didn't, would improve certainties for the rest of the process
+* knowing that they did happen on schedule, or why they didn't, would improve certainties for the rest of the model
 
 * * *
 
 Scientific uncertainties are time-invariant random variables. Technological
 uncertainties are time-dependent random variables, which may also depend upon
 scientific uncertainties. Outcomes are deterministic functions of scientific
-and technoloigcal uncertainties.
+and technological uncertainties.
 
 Relations between technologies are expressed here as one of two types: "any"
 or "all."
