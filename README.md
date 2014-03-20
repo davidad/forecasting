@@ -14,9 +14,9 @@ at any given point in time, the state may involve multiple technologies serving 
 
 the aim of this subproject would be to produce a program that can run Monte Carlo simulations to answer questions like "what's the posterior distribution of the date of the first successful human upload"
 
-I also want to be able to produce useful milestones, which are defined as milestones such that:
-a) we have a decent prediction of when they will happen
-b) knowing that they did happen on schedule, or why they didn't, would improve certainties for the rest of the process
+I also want to be able to automatically identify useful milestones, which are defined as milestones such that:
+* we have a decent prediction of when they will happen
+* knowing that they did happen on schedule, or why they didn't, would improve certainties for the rest of the process
 
 * * *
 
